@@ -7,6 +7,7 @@ import argparse
 import platform
 from tenacity import retry, stop_after_attempt, wait_random_exponential
 
+
 sys.path.append('')
 from utils import *
 
@@ -15,33 +16,52 @@ if platform.system()=='Windows':
     asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 
 
+# @retry(wait=wait_random_exponential(min=5, max=60), stop=stop_after_attempt(3))
+# async def generate_response(prompt, engine):
+#     try:
+#         if engine == CHAT_GPT or engine == GPT4:
+#             response = openai.ChatCompletion.create(
+#                     messages=[{'role': 'user', 'content': prompt}],
+#                     model=engine,
+#                     temperature=args.temperature,
+#                     top_p=args.top_p,
+#                 )
+#         else:
+#             response = openai.Completion.create(
+#                     model=engine,
+#                     prompt=prompt,
+#                     temperature=args.temperature,
+#                     top_p=args.top_p,
+#                     max_tokens=1000,
+#                 )
+#         return response
+
+#     except openai.error.APIError as e:
+#         if e.status == 429:
+#             print("Rate limited. Waiting and retrying...")
+#             asyncio.sleep(1)
+#         else:
+#             raise
 @retry(wait=wait_random_exponential(min=5, max=60), stop=stop_after_attempt(3))
 async def generate_response(prompt, engine):
     try:
-        if engine == CHAT_GPT or engine == GPT4:
-            response = openai.ChatCompletion.create(
-                    messages=[{'role': 'user', 'content': prompt}],
-                    model=engine,
-                    temperature=args.temperature,
-                    top_p=args.top_p,
-                )
-        else:
-            response = openai.Completion.create(
-                    model=engine,
-                    prompt=prompt,
-                    temperature=args.temperature,
-                    top_p=args.top_p,
-                    max_tokens=1000,
-                )
+        # Perplexity uses chat completions format for all models
+        response = openai.ChatCompletion.create(
+            messages=[{'role': 'user', 'content': prompt}],
+            model=engine,
+            temperature=args.temperature,
+            top_p=args.top_p,
+            max_tokens=1000,
+        )
         return response
-
     except openai.error.APIError as e:
         if e.status == 429:
             print("Rate limited. Waiting and retrying...")
-            asyncio.sleep(1)
+            await asyncio.sleep(1)
         else:
             raise
 
+# ADD THIS FUNCTION HERE
 async def call_api_direct(prompt_list, engine):
     semaphore = asyncio.Semaphore(20)
     tasks = []
@@ -51,6 +71,30 @@ async def call_api_direct(prompt_list, engine):
             tasks.append(task)
     responses = await asyncio.gather(*tasks)
     return responses
+# async def call_api_direct(prompt_list, engine):
+#     semaphore = asyncio.Semaphore(20)
+#     tasks = []
+#     for prompt in prompt_list:
+#         async with semaphore:
+#             task = asyncio.create_task(generate_response(prompt, engine))
+#             tasks.append(task)
+#     responses = await asyncio.gather(*tasks)
+#     return responses
+@retry(wait=wait_random_exponential(min=5, max=60), stop=stop_after_attempt(5))
+async def call_api_improve(prompt_list, engine):
+    # Use chat format for all models in Perplexity
+    async_responses = [
+        openai.ChatCompletion.acreate(
+            messages=[{'role': 'user', 'content': prompt}],
+            model=engine,
+            temperature=args.temperature,
+            top_p=args.top_p,
+            max_tokens=1000,
+        )
+        for prompt in prompt_list
+    ]
+    return await asyncio.gather(*async_responses)
+
 
 
 @retry(wait=wait_random_exponential(min=5, max=60), stop=stop_after_attempt(5))
@@ -387,6 +431,8 @@ if __name__ == '__main__':
 
     openai.organization = args.api_org
     openai.api_key = args.api_key
+    openai.api_base = "https://api.perplexity.ai"  # ADD THIS LINE
+
     
 
     if args.dataset == 'LogicNLG':

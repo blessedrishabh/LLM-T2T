@@ -1,0 +1,613 @@
+{
+    "2-1458666-4.html.csv": [
+        "The United States has the most total wins in the World Golf Championships.",
+        "Australia, Northern Ireland, Canada, Fiji, Sweden, and Italy have never won a team event in the World Golf Championships.",
+        "The United States has the most individual wins in the World Golf Championships.",
+        "The United States has the highest number of individual winners in the World Golf Championships.",
+        "Japan and Wales have never had an individual winner in the World Golf Championships."
+    ],
+    "2-17814838-6.html.csv": [
+        "The highest attendance in the 2008-09 FA Cup matches listed was 75,014 at the Manchester United vs. Tottenham Hotspur game.",
+        "Arsenal achieved the largest winning margin of 4 goals in their 4-0 victory over Cardiff City in the replay match.",
+        "Among the replay matches, only the Arsenal vs. Cardiff City replay had a higher attendance than its original match.",
+        "Both Sunderland vs. Blackburn Rovers and Cardiff City vs. Arsenal matches ended 0-0 in the original ties, necessitating replays.",
+        "Several well-known Premier League clubs such as Liverpool, Manchester United, Chelsea, and Arsenal played as home teams in the 2008-09 FA Cup matches listed."
+    ],
+    "2-170969-2.html.csv": [
+        "Saint George parish has the highest population in Charlotte County, New Brunswick.",
+        "Saint James parish is the largest parish by area in Charlotte County, New Brunswick.",
+        "Clarendon parish has the smallest population among the parishes in Charlotte County according to the census ranking.",
+        "Lepreau parish and West Isles parish have the same population of 824.",
+        "Grand Manan parish is the smallest parish by area in Charlotte County, New Brunswick."
+    ],
+    "2-14255774-8.html.csv": [
+        "## The Diamondbacks\u2019 Largest Victory Margin Was Against the Dodgers on September 5",
+        "## The Diamondbacks Suffered Their Biggest Defeat to the Rockies on September 21",
+        "## The Highest Attendance for a Diamondbacks Game in This Stretch Was on September 7 Against the Dodgers",
+        "## The Diamondbacks Played Extra-Inning Games Against the Reds on September 13 and 14",
+        "## The Diamondbacks\u2019 Record Was Exactly .500 (76\u201376) After the Game on September 18"
+    ],
+    "2-17964087-2.html.csv": "## Consistent Claims Derived from the Table**Claim 1:**  Both Chan Chi-yuen, Paul and Young Chit-on, Jeremy are attached to the Food and Health portfolio.  **Reasoning:** The \"portfolio attachment\" column lists both Chan Chi-yuen, Paul and Young Chit-on, Jeremy under \"food and health\" (note: \"food & health\" for Young Chit-on is functionally equivalent and appears to refer to the same portfolio).**Claim 2:**  Lo Yik-kee, Victor is the only appointee with British nationality listed in the \"foreign nationality\" column.  **Reasoning:** Scanning the \"foreign nationality\" column, only Lo Yik-kee, Victor is marked as \"british\"; all others are either \"n/a\" or a different nationality.**Claim 3:**  Ng Kit-shuen, Katherine is the only appointee with Singaporean nationality.  **Reasoning:** The \"foreign nationality\" column shows \"an singapore\" for Ng Kit-shuen, Katherine, while all others have either \"n/a\" or a different foreign nationality.**Claim 4:**  Choy Siu-min, Linda receives the highest government salary (HK$149,055) among the listed appointees.  **Reasoning:** Comparing the \"govt salary\" column, Choy Siu-min, Linda's salary (hk149055) is higher than all others (hk134150 and hk163960).**Claim 5:**  Tsui Ying-wai, Caspar is the youngest appointee at 31 years old.  **Reasoning:** The \"age at appointment\" column shows Tsui Ying-wai, Caspar is 31, which is the lowest value in the column (all others are 32 or older).---These claims are **consistent** because each is directly supported by the corresponding columns in the table.  Each claim is **distinct**\u2014focusing on portfolio, nationality, salary, age, and uniqueness\u2014and does not repeat the same type of observation.",
+    "2-12582968-1.html.csv": "## 5 Different, Consistent Claims About Luk\u00e1\u0161 Melich\u2019s Career Highlights**Claim 1:**  Luk\u00e1\u0161 Melich achieved his highest ever finish at a World Championships in 2013, placing 3rd in Moscow, Russia, with a throw of 79.36 meters.  **Reasoning:**  Looking at the \"position\" and \"notes\" columns, the highest position recorded at a World Championships is 3rd (Moscow, Russia), and the corresponding throw (79.36 m) is also the highest in the table.**Claim 2:**  Melich competed in two Olympic Games, finishing 29th in Beijing (2008) and 6th in London (2012), with a significant improvement in both position and performance between these appearances.  **Reasoning:**  Scanning the \"competition\" column, only two rows mention \"Olympic Games.\" Comparing the \"position\" and \"notes\" columns, the result improved from 29th (70.56 m) to 6th (77.17 m).**Claim 3:**  His earliest international appearance was at the 1998 World Junior Championships in Annecy, France, where he finished 10th with a throw of 61.51 meters.  **Reasoning:**  The earliest year in the \"year\" column is 1998, corresponding to the World Junior Championships in Annecy, France, with a position of 10th and a throw of 61.51 m.**Claim 4:**  Melich\u2019s best result at a European Championships was 15th place in Gothenburg, Sweden (2006), with a throw of 73.77 meters.  **Reasoning:**  The \"competition\" column lists one \"European Championships.\" The corresponding \"position\" and \"notes\" show 15th place and 73.77 m.**Claim 5:**  He participated in the Universiade in 2003 in Daegu, South Korea, finishing 4th with a throw of 71.26 meters, which was a career milestone before his breakthrough at major senior championships.  **Reasoning:**  The \"competition\" column includes \"Universiade\" in 2003. The \"position\" and \"notes\" columns confirm 4th place and a throw of 71.26 m.---### **Summary Table of Claims**| Claim | Event                                    | Year | Venue               | Position | Throw (m) | Reasoning Focus                          ||-------|------------------------------------------|------|---------------------|----------|-----------|------------------------------------------|| 1     | World Championships                     | 2013 | Moscow, Russia      | 3rd      | 79.36     | Highest finish at Worlds                 || 2     | Olympic Games                           | 2008, 2012 | Beijing, London   | 29th, 6th| 70.56, 77.17 | Two Olympics, major improvement          || 3     | World Junior Championships              | 1998 | Annecy, France      | 10th     | 61.51     | Earliest international appearance        || 4     | European Championships                  | 2006 | Gothenburg, Sweden  | 15th     | 73.77     | Best Euro result                         || 5     | Universiade                             | 2003 | Daegu, South Korea  | 4th      | 71.26     | Career milestone before major senior events|Each claim is directly supported by the table, with no overlap in the type of information presented.",
+    "2-14820149-3.html.csv": [
+        "Juan Garriga scored his highest points of 221 in 1988 while racing in the 250cc class for ducados - yamaha.",
+        "Juan Garriga only achieved race wins in 1988, with a total of 3 wins.",
+        "Juan Garriga competed in both 250cc and 500cc classes during his career, alternating between them from 1984 to 1993.",
+        "Juan Garriga scored 121 points in both 1990 and 1991 in the 500cc class with ducados - yamaha but did not win any races in those years.",
+        "Juan Garriga scored no points and won no races during his 1984 season racing 250cc for Yamaha."
+    ],
+    "2-12392766-3.html.csv": "## Five Consistent Claims from the 2005\u201306 ISU Junior Grand Prix Table**Reasoning 1:** Looking at the \"rank\" and \"total\" columns, the United States is ranked first with a total of 36 medals, which is the highest number among all nations in the table.  **Claim 1:** The United States earned the most medals (36) and was ranked first in the 2005\u201306 ISU Junior Grand Prix.**Reasoning 2:** Comparing the \"gold\" column, both the United States and Russia each won 10 gold medals, which is the highest gold count in the table.  **Claim 2:** The United States and Russia tied for the most gold medals, each winning 10.**Reasoning 3:** Observing the \"nation\" and \"bronze\" columns, Finland and France both earned 2 and 1 bronze medals, respectively, but China, with 3 bronze medals, earned more than either.  **Claim 3:** China won more bronze medals (3) than Finland (2) and France (1).**Reasoning 4:** Reviewing the \"silver\" column, the United States won 14 silver medals, which is more than any other nation.  **Claim 4:** The United States collected the most silver medals (14).**Reasoning 5:** Scanning the \"total\" column, Sweden, South Korea, and Italy all have a total of 3 medals, but South Korea\u2019s medals are all gold, while Italy\u2019s are all silver and bronze, and Sweden\u2019s include one of each.  **Claim 5:** South Korea, Sweden, and Italy each earned 3 medals, but South Korea\u2019s were all gold, Sweden\u2019s included one gold, one silver, and one bronze, and Italy\u2019s were two silver and one bronze.## Template for Structured ClaimsFor future tables, structure your claims as follows:**Reasoning:** Briefly describe how you derived the claim from the table columns.  **Claim:** State the precise, table-supported claim.This approach ensures all claims are directly supported by the data, are distinct from each other, and follow a clear, reproducible logic\u2014mirroring the examples provided.",
+    "2-1140095-1.html.csv": [
+        "Jim Clark won the first race of the 1968 Formula One season.",
+        "Lotus-Ford was the constructor with the most race victories in the 1968 Formula One season.",
+        "Jackie Stewart set the fastest lap in three races during the 1968 Formula One season.",
+        "The tyre supplier \"f\" was used in the majority of races during the 1968 Formula One season.",
+        "The Mexican Grand Prix was the last race of the 1968 Formula One season."
+    ],
+    "2-1123180-2.html.csv": [
+        "Michael Schumacher won the 1993 Portuguese Grand Prix, completing all 71 laps in 1:32:46.309.",
+        "Damon Hill started the race from pole position but finished third.",
+        "Multiple drivers retired before completing the full 71 laps due to collisions, accidents, or mechanical failures.",
+        "Williams-Renault drivers Alain Prost and Damon Hill both finished in the top three at the 1993 Portuguese Grand Prix.",
+        "Drivers starting from grid positions 11 to 26 generally completed fewer laps and finished several laps behind the leaders."
+    ],
+    "1-2419754-1.html.csv": [
+        "The University of Cincinnati had the highest enrollment among the Great Midwest Conference institutions.",
+        "The majority of the institutions in the Great Midwest Conference were private universities.",
+        "All institutions in the Great Midwest Conference left the conference in 1995.",
+        "The Great Midwest Conference consisted exclusively of institutions located in the Midwest or adjacent regions of the United States.",
+        "Saint Louis University was the oldest institution in the Great Midwest Conference, founded in 1818."
+    ],
+    "2-17746881-1.html.csv": [
+        "The match between Paris SG and US Orl\u00e9ans had the highest total goals scored, with 10 goals in total.",
+        "Among the first teams listed, only AS Beauvais and Stade Rennais were from division 2; the rest were from division 1.",
+        "Several matches were drawn in the first round but decided in the second round, such as FC Nantes versus AS Monaco.",
+        "US Orl\u00e9ans, a division 2 team, scored the highest number of goals by any away team with 7 goals.",
+        "FC Mulhouse, a division 2 team, defeated Lille OSC, a division 1 team, with a score of 3 to 2."
+    ],
+    "1-23157997-13.html.csv": [
+        "Tom Zirbel led the general classification from stage 1 to stage 5.",
+        "The Bissell team led the team classification throughout all six stages.",
+        "Lucas Sebastian Haedo won the most stages, with victories in stages 2 and 4.",
+        "The mountains classification leadership changed from Tom Zirbel (stages 1-2) to Kenneth Hanson (stages 3-4) to Chad Gerlach (stages 5-6).",
+        "Nick Frey was the youth classification leader for the first four stages before Mike Northey and Bobby Sweeting took over in stages 5 and 6."
+    ],
+    "2-187504-13.html.csv": "**Title: 1988 Winter Olympics****Reasoning 1:** Looking at the \"rank\" column, the Soviet Union (URS) is listed as rank 1, which means it finished in first place.**Claim 1:** The Soviet Union (URS) finished in first place at the 1988 Winter Olympics.---**Reasoning 2:** Looking at the \"gold\" column, the Soviet Union (URS) has 11 gold medals, which is the highest number of gold medals among all nations listed.**Claim 2:** The Soviet Union (URS) won the most gold medals at the 1988 Winter Olympics.---**Reasoning 3:** Looking at the \"total\" column, Switzerland (SUI) has a total of 15 medals, which is the third-highest total among all nations listed.**Claim 3:** Switzerland (SUI) won the third-highest total number of medals at the 1988 Winter Olympics.---**Reasoning 4:** Looking at the \"bronze\" column, Canada (CAN) has 3 bronze medals, which is the highest number of bronze medals among all nations listed.**Claim 4:** Canada (CAN) won the most bronze medals at the 1988 Winter Olympics.---**Reasoning 5:** Looking at the \"silver\" column, Sweden (SWE) has 0 silver medals, which is the only nation in the top 10 with no silver medals.**Claim 5:** Sweden (SWE) was the only nation in the top 10 with no silver medals at the 1988 Winter Olympics.",
+    "2-18855244-2.html.csv": [
+        "Michael Phelps has the highest medal count listed in the table with 22 medals.",
+        "The United States is the nation with the most athletes listed in the table.",
+        "Gymnastics is a sport in which multiple athletes have won medals on this list.",
+        "The earliest date for any medal listed is 6 April 1896.",
+        "Robert Garrett is an athlete who won multiple medals in different events and on different dates."
+    ],
+    "2-14076898-4.html.csv": "Title: 1996 men's world ice hockey championships  Table:  games | drawn | lost | goal difference | points  7 | 0 | 1 | 51 - 10 | 12  7 | 0 | 1 | 40 - 13 | 12  7 | 0 | 2 | 41 - 19 | 10  7 | 1 | 3 | 34 - 25 | 7  7 | 1 | 3 | 36 - 29 | 7  7 | 0 | 4 | 32 - 27 | 6  7 | 0 | 6 | 17 - 68 | 2  7 | 0 | 7 | 11 - 71 | 0  ---**Reasoning 1:** Looking at the \"games\" column, every row shows 7 games played.  **Claim 1:** All teams played 7 games in the 1996 men's world ice hockey championships.**Reasoning 2:** Looking at the \"drawn\" column, the only values present are 0 and 1. No team had more than one drawn game.  **Claim 2:** No team had more than one drawn game in the tournament.**Reasoning 3:** Looking at the \"lost\" column, the highest number of losses is 7, which appears in the last row.  **Claim 3:** One team lost all 7 of their games in the tournament.**Reasoning 4:** Looking at the \"goal difference\" column, the best goal difference is 51 - 10, which appears in the first row.  **Claim 4:** The best goal difference in the tournament was 51 - 10.**Reasoning 5:** Looking at the \"points\" column, the highest number of points is 12, which appears in the first two rows.  **Claim 5:** Two teams finished the tournament with 12 points.",
+    "2-16045118-20.html.csv": "## Title: List of Black Golden Globe Award Winners and NomineesHere are five different, consistent claims derived from the provided table, each supported by direct evidence from the data. Each claim is accompanied by clear reasoning.---**Reasoning 1:**  Looking at the \"result\" column, only a few entries are marked as \"won,\" indicating actual award winners. The rest are \"nominated.\"  **Claim 1:**  Diana Ross won the New Star \u2013 Actress award in 1973 for \"Lady Sings the Blues,\" while she was also nominated in the same year for Best Actress \u2013 Drama for the same film.---**Reasoning 2:**  Examining the \"award\" column, there are multiple instances where the same person is nominated or wins in different categories or years. For example, Whoopi Goldberg appears three times: she won Best Actress \u2013 Drama in 1986 for \"The Color Purple,\" won Best Supporting Actress in 1991 for \"Ghost,\" and was nominated for Best Actress \u2013 Musical or Comedy in 1993 for \"Sister Act.\"  **Claim 2:**  Whoopi Goldberg is the only person in the table to have both won and been nominated in multiple categories across different years.---**Reasoning 3:**  By checking the \"year\" and \"actor\" columns, it is evident that some actors received nominations in the same year for different awards. For instance, in 1973, Diana Ross was nominated for both New Star \u2013 Actress and Best Actress \u2013 Drama.  **Claim 3:**  In 1973, Diana Ross was nominated for two different Golden Globe awards for her work in \"Lady Sings the Blues.\"---**Reasoning 4:**  Reviewing the \"result\" column for the most recent years, Viola Davis appears twice: nominated for Best Supporting Actress in 2009 for \"Doubt\" and nominated for Best Actress \u2013 Drama in 2012 for \"The Help.\" Octavia Spencer also appears in 2012 as a winner for Best Supporting Actress in \"The Help.\"  **Claim 4:**  In 2012, both Viola Davis and Octavia Spencer were recognized for their roles in \"The Help,\" with Davis nominated for Best Actress \u2013 Drama and Spencer winning Best Supporting Actress.---**Reasoning 5:**  Looking at the \"award\" and \"motion picture\" columns, there are several instances where more than one actor from the same film was nominated or won. For example, in 2010, Mo'Nique won Best Supporting Actress and Gabourey Sidibe was nominated for Best Actress \u2013 Drama, both for \"Precious: Based on the Novel Push by Sapphire.\"  **Claim 5:**  In 2010, \"Precious: Based on the Novel Push by Sapphire\" had two Black actresses recognized at the Golden Globes: Mo'Nique as a winner and Gabourey Sidibe as a nominee.---These claims are directly supported by the table, each highlighting a different aspect of the data\u2014individual achievements, multiple recognitions, same-year nominations, recent trends, and shared film honors.",
+    "2-10234157-2.html.csv": "## Title: 2007\u201308 English Premiership (Rugby Union) Top Points ScorersBelow are five different, consistent claims derived directly from the provided table, each with clear reasoning and a distinct focus.**Reasoning 1:**  Looking at the \"points\" column, Andy Goode has the highest value (207), indicating he scored the most points in the league.**Claim 1:**  Andy Goode (Leicester Tigers) was the top points scorer in the 2007\u201308 English Premiership with 207 points.---**Reasoning 2:**  Examining the \"tries\" column, Danny Cipriani has the highest value (6), showing he scored more tries than any other player listed.**Claim 2:**  Danny Cipriani (London Wasps) scored the most tries among the top points scorers, with 6 tries.---**Reasoning 3:**  Reviewing the \"drop\" column, Charlie Hodgson has the highest value (9), indicating he scored the most drop goals.**Claim 3:**  Charlie Hodgson (Sale Sharks) scored the most drop goals among the top points scorers, with 9.---**Reasoning 4:**  Comparing the \"points\" column, the difference between the top scorer (Andy Goode, 207) and the second-highest scorer (Charlie Hodgson, 201) is 6 points.**Claim 4:**  Andy Goode finished the season 6 points ahead of Charlie Hodgson in the points scoring table.---**Reasoning 5:**  Looking at the \"drop\" column, both Adrian Jarvis and Chris Malone (both Harlequins) have values of 0 and 2, respectively, indicating they are the only teammates listed among the top points scorers.**Claim 5:**  Adrian Jarvis and Chris Malone were the only teammates (both from Harlequins) among the top points scorers in the 2007\u201308 English Premiership.---Each claim is directly supported by the data in the table, and each focuses on a different aspect of the dataset (overall points, tries, drop goals, point difference, and team representation).",
+    "2-11963735-4.html.csv": "**Title:** 2007 - 08 Denver Nuggets season---**Reasoning 1:** Looking at the \"visitor\" column and the corresponding \"home\" column, the Nuggets played as the home team in several games, including against the Heat, Lakers, Kings, Hornets, Trail Blazers, Rockets, Bucks, and Warriors. In all these cases, \"nuggets\" is listed in the \"home\" column.**Claim 1:** The Nuggets played as the home team in 8 of the listed games.---**Reasoning 2:** Looking at the \"leading scorer\" column, Allen Iverson is listed as the leading scorer in 6 games (vs. Lakers, Mavericks, Kings, Spurs, Trail Blazers, Warriors), while Carmelo Anthony is listed in 7 games (vs. Heat, Hornets, Rockets, Kings, Bucks, Warriors, Warriors again). The only exception is the game against the Trail Blazers on 21 December 2007, which had a two-way tie.**Claim 2:** Carmelo Anthony was the leading scorer for the Nuggets in 7 of the listed games.---**Reasoning 3:** Looking at the \"score\" column, the Nuggets won the game against the Mavericks on 6 December 2007 with a score of 122 - 109.**Claim 3:** The Nuggets won the game against the Mavericks on 6 December 2007.---**Reasoning 4:** Looking at the \"attendance\" column, the highest attendance was 20,644 for the game against the Trail Blazers on 21 December 2007.**Claim 4:** The game against the Trail Blazers on 21 December 2007 had the highest attendance of the listed games.---**Reasoning 5:** Looking at the \"record\" column, the Nuggets' record improved from 11 - 7 to 18 - 12 over the course of the listed games, indicating they won 7 games and lost 5.**Claim 5:** The Nuggets won 7 of the 12 listed games.",
+    "1-25030512-41.html.csv": [
+        "Most incumbents were re-elected in the 2012 United States House elections in Pennsylvania districts, except for Pennsylvania 12, where the incumbent lost and the seat changed parties.",
+        "The majority of incumbents listed in the table were Republicans.",
+        "Bob Brady was re-elected in Pennsylvania 1 with the highest vote percentage of 85.1%.",
+        "The closest election outcome was in Pennsylvania 12, where the Republican candidate won with 51.5% against the Democrat's 48.5%.",
+        "Mike Doyle was the longest-serving incumbent, first elected in 1994."
+    ],
+    "2-15177130-1.html.csv": [
+        "Reg Parnell participated in various events from 1950 to 1953, including a win at the Goodwood Trophy on 30th September 1950.",
+        "Juan Manuel Fangio retired from several races he entered in 1952 and 1953.",
+        "Silverstone circuit hosted multiple events including the 1950 BRDC International Trophy and the 1951 British Grand Prix.",
+        "Ken Wharton won the Glover Trophy at Goodwood on 6th April 1953 and finished 16th at the Daily Mail Trophy on 2nd August 1952.",
+        "B Bira was not present at the Swiss Grand Prix on 27th May 1951 and the French Grand Prix on 1st July 1951."
+    ],
+    "2-17337904-12.html.csv": [
+        "The states represented in the table are cai, cao, chen, chu, jin, lu, qi, qin, song, wey, and yan.",
+        "The most common title among the listed leaders is \"marquis.\"",
+        "The royal house \"ji\" is associated with leaders from cai, jin, and lu.",
+        "The name \"wu\" is associated with both the state of cai and the state of qi.",
+        "Every listed leader in the table is a sovereign ruler."
+    ],
+    "1-25847911-1.html.csv": [
+        "Episode 6, titled \"\u82f1\u8a9e\u5bfe\u6c7a!\u52dd\u8ca0\u3060\u30d0\u30ab6\u4eba\" (English showdown! fight for stupid 6), had the highest rating of 17.9%.",
+        "All episodes in the table were broadcast between mid-July and early September 2005.",
+        "Episode 3, \"\u904a\u3079!\u53d7\u9a13\u306f\u30b9\u30dd\u30fc\u30c4\u3060!\" (Entrance exams are sports, so play!), had the lowest rating of 13.8%.",
+        "The episodes were broadcast in chronological order weekly from episode 2 to episode 10, with the exception that episode 8 is not listed.",
+        "The episode titles consistently focus on themes of overcoming challenges, motivation, and exam preparation."
+    ],
+    "2-15029747-1.html.csv": "**Title:** brandi love**Reasoning 1:** Looking at the \"year\" column, all entries are for the year 2013.  **Claim 1:** All listed awards and nominations for Brandi Love occurred in 2013.**Reasoning 2:** Looking at the \"ceremony\" column, the AVN Award, NightMoves Award, and XBIZ Award are the three ceremonies listed.  **Claim 2:** Brandi Love was nominated or won awards at the AVN Award, NightMoves Award, and XBIZ Award ceremonies in 2013.**Reasoning 3:** Looking at the \"result\" column, only one entry has the result \"won\" (NightMoves Award for best cougar / milf performer). All others are \"nominated.\"  **Claim 3:** Brandi Love won one award in 2013, which was the NightMoves Award for best cougar / milf performer (editor\u2019s choice).**Reasoning 4:** Looking at the \"award\" column, the award \"most outrageous sex scene (with Kelly Madison)\" is the only one that specifies a co-performer.  **Claim 4:** Brandi Love was nominated for most outrageous sex scene (with Kelly Madison) at the AVN Award in 2013.**Reasoning 5:** Looking at the \"work\" column, only one entry specifies a work title (\"Big Titty MILFs\"), while all others are marked \"n/a.\"  **Claim 5:** The only work specifically associated with Brandi Love\u2019s nominations in 2013 is \"Big Titty MILFs.\"",
+    "2-11713403-3.html.csv": [
+        "Derek Lee had the most receptions during the 2006 Georgia Force season.",
+        "Chris Jackson recorded the most receiving yards during the 2006 Georgia Force season.",
+        "Rob Carey had the highest average yards per reception during the 2006 Georgia Force season.",
+        "Chris Jackson scored the most touchdowns during the 2006 Georgia Force season.",
+        "Derek Lee had the longest single reception during the 2006 Georgia Force season."
+    ],
+    "2-18025901-1.html.csv": [
+        "The 1971 - 72 FA Cup third-place match at St Andrew's had the highest attendance of 25,841.",
+        "Highbury was the venue for two FA Cup third-place matches in the seasons 1969 - 70 and 1972 - 73.",
+        "The 1971 - 72 FA Cup third-place match was decided by a penalty shootout after a 0-0 draw.",
+        "Stoke City won the 1970 - 71 FA Cup third-place match but lost the 1971 - 72 match.",
+        "FA Cup third-place matches in this table took place between April and August across different years."
+    ],
+    "1-24584486-1.html.csv": [
+        "James Calado achieved his highest number of wins in a single season in 2009 British Formula Renault 2.0 series with 8 wins.",
+        "James Calado secured first place in both the British and Portuguese Formula Renault 2.0 winter series in 2008.",
+        "Fortec Motorsport was James Calado\u2019s primary team during the 2008 and 2009 seasons.",
+        "In the 2010 British Formula Three Championship, James Calado finished on the podium in 40% of his 30 races.",
+        "James Calado earned the highest number of pole positions (10) in the 2009 British Formula Renault 2.0 season."
+    ],
+    "2-10750694-19.html.csv": [
+        "Richmond, as the home team, scored the highest points in a single match with 15.11 (101).",
+        "Kardinia Park hosted the match with the largest crowd of 49,107.",
+        "All six matches were played on 30 August 1952.",
+        "Carlton, playing as the away team, scored the lowest points of any team with 3.14 (32).",
+        "The Richmond vs Essendon game had the second-highest attendance with 28,000 spectators."
+    ],
+    "2-17832085-4.html.csv": [
+        "H\u00e9rcules CF finished the 1965-66 Segunda Divisi\u00f3n season in first place with 39 points.",
+        "H\u00e9rcules CF and Levante UD both had the highest goal difference of +20 in the season.",
+        "CD Badajoz recorded the most losses during the season, totaling 18.",
+        "Real Valladolid scored the highest number of goals in the season with 49.",
+        "All clubs played 30 matches during the 1965-66 Segunda Divisi\u00f3n season."
+    ],
+    "2-10774891-18.html.csv": [
+        "Essendon scored the most points of any team that played on 24 August 1957.",
+        "Windy Hill was the venue for the Essendon vs. Carlton match.",
+        "The Melbourne vs. Richmond match at the MCG had the largest crowd of any match on 24 August 1957.",
+        "St Kilda played as the home team against Collingwood at Junction Oval.",
+        "All six matches took place on 24 August 1957."
+    ],
+    "2-1825661-2.html.csv": [
+        "The 300sel 3.5 model had the highest number of units built among the Mercedes-Benz W108 models listed.",
+        "The 300sel with chassis code w109.015 was the earliest produced model, starting production in September 1965.",
+        "The 300sel 6.3 model was equipped with the largest engine displacement of 6.3 liters.",
+        "All listed Mercedes-Benz models share the W109 chassis code prefix.",
+        "The 300sel 4.5 model was the last Mercedes-Benz W108 model to begin production, starting in May 1971."
+    ],
+    "2-10361861-2.html.csv": [
+        "The Minnesota Vikings won their opening game of the 1980 season against the Atlanta Falcons with a score of 24-23.",
+        "The game with the highest attendance for the Vikings in 1980 was against the Detroit Lions in week 4, with 80,291 attendees.",
+        "The Minnesota Vikings lost to the Detroit Lions in week 4 but defeated them in week 10 during the 1980 season.",
+        "The Minnesota Vikings finished the 1980 season with 9 wins and 7 losses.",
+        "The Minnesota Vikings' 1980 season games were played between September 7 and December 21, 1980."
+    ],
+    "2-10773616-16.html.csv": [
+        "Melbourne scored the highest points of any team that played on 14 August 1954.",
+        "Geelong was the home team with the highest score on 14 August 1954.",
+        "Arden Street Oval was one of the venues used for matches on 14 August 1954.",
+        "Hawthorn as the away team recorded an away score of 7.6 (48), while Melbourne recorded an away score of 15.4 (94).",
+        "All six matches took place on 14 August 1954."
+    ],
+    "2-1100124-1.html.csv": [
+        "The 1964 World Series games were played only at Busch Stadium (I) and Yankee Stadium (I).",
+        "Game 3 at Yankee Stadium (I) had the highest attendance of 67,101 among all 1964 World Series games.",
+        "The 1964 World Series games were played over the span of October 7 to October 15, with breaks on October 9 and October 13.",
+        "Attendance at Busch Stadium (I) for the 1964 World Series games was consistently about 30,000 spectators.",
+        "The shortest game in the 1964 World Series lasted 2 hours and 16 minutes, while the longest games lasted 2 hours and 37 minutes."
+    ],
+    "2-11048203-1.html.csv": [
+        "The table records matches with three different outcomes: wins, losses, and draws.",
+        "Most matches listed in the table were played in Amman, with only a few matches held in other venues like Kuwait and Singapore.",
+        "The largest winning margin in the matches listed is a 5 - 0 victory on 18 February 2004.",
+        "The matches in the table span various competitions such as friendly matches, the Arab Nations Cup, AFC Asian Cup qualification, and FIFA World Cup qualification.",
+        "The matches recorded in the table span over a period of nearly 11 years, from December 2002 to October 2013."
+    ],
+    "2-17324893-3.html.csv": [
+        "The New York Rangers scored their highest single-game total of 7 goals in three different games during this period.",
+        "By game 24, the New York Rangers had accumulated a record of 15 wins, 7 losses, and 2 ties.",
+        "The New York Rangers won both games they played against the Philadelphia Flyers in this stretch.",
+        "The New York Rangers\u2019 game against the Los Angeles Kings on November 29 ended in a 2-2 tie.",
+        "The New York Rangers scored three or more goals in all November games except game 23 against the Vancouver Canucks."
+    ],
+    "2-1520959-1.html.csv": "**Title:** Drayton Manor Theme Park**Table:**  name | style | opened | manufacturer | themed area  the shock wave | standing up rollercoaster | 1994 | intamin | action park  g force | steel sit down | 2005 | mauer s\u00f6hne | action park  ben 10 - ultimate mission | steel sit down | 2011 | vekoma | aerial park  buffalo mountain coaster | steel sit down | 1987 | zamperla | aerial park  troublesome trucks runaway coaster | steel sit down | 2008 | gerstlauer | thomas land  ---**Reasoning 1:** Looking at the \"style\" column, four rides are listed as \"steel sit down\" while only one is \"standing up rollercoaster\".  **Claim 1:** The majority of rides in the table are steel sit down rollercoasters.---**Reasoning 2:** Looking at the \"opened\" column, the earliest opening year is 1987, which corresponds to \"buffalo mountain coaster\".  **Claim 2:** The buffalo mountain coaster is the oldest ride listed, having opened in 1987.---**Reasoning 3:** Looking at the \"themed area\" column, three rides are located in \"aerial park\" or \"action park\", while only one is in \"thomas land\".  **Claim 3:** Thomas Land is the only themed area with just one ride listed in the table.---**Reasoning 4:** Looking at the \"manufacturer\" column, each ride has a different manufacturer, and \"intamin\" is listed only once.  **Claim 4:** The Shock Wave is the only ride manufactured by Intamin.---**Reasoning 5:** Looking at the \"name\" column and matching with \"opened\" column, \"Ben 10 - Ultimate Mission\" opened in 2011, which is the most recent year listed.  **Claim 5:** Ben 10 - Ultimate Mission is the newest ride listed, having opened in 2011.",
+    "2-1235883-1.html.csv": [
+        "Umberto Maglioli's racing entries span from 1953 to 1957.",
+        "Umberto Maglioli raced mostly for Scuderia Ferrari between 1953 and 1955.",
+        "The Ferrari chassis were equipped with a straight-4 engine, Maserati chassis with a straight-6 engine, and Porsche chassis with a flat-4 engine.",
+        "Umberto Maglioli scored his highest points in 1954, earning 2 points with both Ferrari 625 and Ferrari 553 chassis.",
+        "In 1956, Umberto Maglioli competed for Maserati teams but did not score any points."
+    ],
+    "2-18813729-2.html.csv": "Title: joel edwards (singer)**Reasoning 1:** Looking at the \"year\" column, all entries for the \"remix\" field \"dead guys remix\" are from the year 2003.  **Claim 1:** All songs remixed by \"dead guys remix\" were released in 2003.**Reasoning 2:** Looking at the \"artist\" column and finding the corresponding \"remix\" field for \"pixie lott\" and \"perry mystique\", both were remixed by \"dee - lux remix\".  **Claim 2:** Both pixie lott and perry mystique had songs remixed by \"dee - lux remix\".**Reasoning 3:** Looking at the \"song\" column and finding the corresponding \"year\" for \"can't resist\", the song was released in 2005.  **Claim 3:** The song \"can't resist\" was released in 2005.**Reasoning 4:** Looking at the \"album\" column, the album \"turn it up\" is associated with the artist \"pixie lott\" and the year 2010.  **Claim 4:** The album \"turn it up\" was released by pixie lott in 2010.**Reasoning 5:** Looking at the \"remix\" column, there are only two unique remixers: \"dead guys remix\" and \"dee - lux remix\".  **Claim 5:** The only remixers listed for joel edwards (singer) are \"dead guys remix\" and \"dee - lux remix\".",
+    "2-180342-8.html.csv": [
+        "The Shard London Bridge is the tallest building or structure in London, standing at 306 metres (1004 ft).",
+        "The White Tower was the tallest structure in London from 1098 until 1310, before being surpassed by Old St Paul's Cathedral.",
+        "The Shard London Bridge has the most floors among the listed London buildings and structures, with 87 floors.",
+        "Several of the tallest structures in London historically were located in the city of London, including Old St Paul's Cathedral and St Paul's Cathedral.",
+        "St Paul's Cathedral held the title of tallest building in London for the longest continuous period, from 1710 to 1939."
+    ],
+    "2-12209065-5.html.csv": [
+        "The highest attendance for a Baltimore Orioles game in July 1997 was 47,919 on July 11 against the Brewers.",
+        "The Baltimore Orioles scored their highest runs in a single game\u201414 runs\u2014on July 6 against the Tigers in 1997.",
+        "The Orioles won three consecutive games from July 1 to July 3, 1997.",
+        "The Orioles played a doubleheader against the Tigers on July 4, 1997.",
+        "Pitcher Mussina was credited with losses on both July 13 and July 18, 1997, during the Orioles' games."
+    ],
+    "2-18662679-3.html.csv": "## 5 Consistent Claims Derived from the Table**Reasoning 1:** Looking at the \"rank\" column, the top rank is 1, which is held by the Australian team.  **Claim 1:** Australia won the gold medal in the men\u2019s quadruple sculls at the 2008 Summer Olympics.**Reasoning 2:** Examining the \"time\" column, the fastest time recorded is 5:36.20, achieved by Australia, with the note \"wb\" indicating a world best.  **Claim 2:** The Australian team set a world best time of 5:36.20 in the men\u2019s quadruple sculls.**Reasoning 3:** Observing the \"notes\" column, the top three teams (Australia, Italy, Russia) all have the note \"sa / b\", while the other two teams (Estonia, Czech Republic) have the note \"r\".  **Claim 3:** The top three finishing teams (Australia, Italy, Russia) all competed in the same race category (\"sa / b\"), distinct from Estonia and the Czech Republic, which competed in a different category (\"r\").**Reasoning 4:** Comparing the \"country\" and \"time\" columns, Italy finished in second place with a time of 5:36.42, just 0.22 seconds behind Australia.  **Claim 4:** Italy finished in second place, 0.22 seconds behind Australia, with a time of 5:36.42.**Reasoning 5:** Reviewing the \"rank\" and \"country\" columns, the Czech Republic finished in fifth place with a time of 6:00.98.  **Claim 5:** The Czech Republic finished in fifth place in the men\u2019s quadruple sculls with a time of 6:00.98.---**Template Summary**Each claim is directly supported by the data in the table, with clear reasoning linking the claim to specific columns and values. The claims are distinct, covering rankings, times, nationalities, and race categories, ensuring a comprehensive and consistent analysis of the table.",
+    "2-16570286-3.html.csv": [
+        "Ray Lindwall and Bill Johnston each took the highest number of wickets (27) in the 1948 Ashes series.",
+        "Ray Lindwall had the best bowling average (19.62) among all players in the 1948 Ashes series.",
+        "Most players participated in 5 matches during the 1948 Ashes series, except Ernie Toshack and Jim Laker who played fewer matches.",
+        "Ray Lindwall achieved the best single-innings bowling figures of 6/20 in the 1948 Ashes series.",
+        "Australian bowlers took more wickets overall than English bowlers in the 1948 Ashes series."
+    ],
+    "2-17599325-1.html.csv": [
+        "Alec Mildren was the only driver to win multiple races in the 1958 Australian Drivers' Championship, winning both at Lowood circuit.",
+        "Victoria hosted the most races in the 1958 Australian Drivers' Championship, with three events held there.",
+        "The 1958 Australian Drivers' Championship races were held across nearly the entire year, from January 27 to December 26.",
+        "Lowood circuit was the only venue to host two races during the 1958 Australian Drivers' Championship.",
+        "Stan Jones won two races in the 1958 Australian Drivers' Championship, both held in Victoria."
+    ],
+    "2-1620397-5.html.csv": [
+        "The 5th Doctor audio plays in this table were all released in 2011.",
+        "The 6th Doctor audio plays in this table were all released in the first half of 2012.",
+        "\"The Elite\" is the only audio play in this table that features the Dalek.",
+        "Both the 1st and 2nd Doctors are represented in this table with one audio play each.",
+        "The audio plays in this table were released from October 2011 through September 2012."
+    ],
+    "2-14841421-2.html.csv": [
+        "Iran has won the most gold medals in the AVC Club Volleyball Championship.",
+        "Iran has the highest total number of medals in the AVC Club Volleyball Championship.",
+        "Despite having the same total medal count, Kazakhstan ranks higher than China in the AVC Club Volleyball Championship.",
+        "Saudi Arabia has won silver medals but no gold or bronze medals in the AVC Club Volleyball Championship.",
+        "The AVC Club Volleyball Championship awarded an equal number of gold, silver, and bronze medals, with 14 each, totaling 42 medals."
+    ],
+    "2-13189034-1.html.csv": [
+        "The Vietnam special episode had a unique budget listed as 15,000,000\u20ab, distinct from other episodes.",
+        "The Botswana special featured a 1968 Volkswagen Beetle as back-up vehicle, which was chosen as the winner.",
+        "In the Bolivia special, Clarkson's 1984 Range Rover was the chosen winner.",
+        "The Africa special was a two-part episode covering episodes 6 and 7 of series 19 in March 2013.",
+        "May\u2019s vehicle in the Vietnam special was a 50cc Honda Super Cub, the smallest engine capacity among her vehicles in the table."
+    ],
+    "2-11902366-4.html.csv": [
+        "New Jersey Devils scored their highest home game goals of 6 against Philadelphia on November 17, 2007.",
+        "The highest attendance for a New Jersey Devils home game in this period was 19,621 on November 17, 2007, against Philadelphia.",
+        "Martin Brodeur was the goaltender credited with the decision in the majority of New Jersey Devils games during the November 2007 period.",
+        "New Jersey Devils improved their record from 5-6-1 to 13-10-2 during the month of November 2007.",
+        "New Jersey Devils lost all recorded away games during November 2007."
+    ],
+    "1-2417308-3.html.csv": [
+        "The reason for every seat change in the 34th United States Congress was that the legislature failed to elect on time.",
+        "New Hampshire was the only state in this table with a class 2 Senate seat.",
+        "John Parker Hale was the only Republican successor listed in this table.",
+        "Graham N. Fitch was formally installed on the latest date listed in the table.",
+        "Every seat listed in the table was vacant prior to the installation of the successor."
+    ],
+    "2-10790651-10.html.csv": [
+        "Geelong scored the highest points of any team in the 29 June 1935 matches, with 26.16 (172).",
+        "Six different venues hosted the VFL matches on 29 June 1935.",
+        "The match at Punt Road Oval between Richmond and Collingwood attracted the largest crowd of 25,000 on 29 June 1935.",
+        "Carlton scored the highest points as an away team with 22.8 (140) on 29 June 1935.",
+        "All six VFL matches in the table were played on 29 June 1935."
+    ],
+    "2-11739153-7.html.csv": [
+        "Minnesota played 10 games as the visiting team during this stretch of the 2007-08 season.",
+        "Backstrom was the decision-maker in 12 out of the 14 games listed.",
+        "Minnesota won two games by a one-goal margin during this stretch: against the NY Islanders and against Vancouver.",
+        "The game with the highest attendance was on February 14 against Vancouver, with 18,630 attendees.",
+        "Minnesota\u2019s record improved by 6 wins, 5 losses, and 2 ties from February 2 to February 29, 2008."
+    ],
+    "2-10897046-5.html.csv": [
+        "Canada had the highest number of players drafted between picks 62 and 91 in the 2009 NHL Entry Draft.",
+        "Defensemen were one of the most frequently drafted positions between picks 62 and 91 in the 2009 NHL Entry Draft.",
+        "The Western Hockey League supplied multiple players drafted between picks 62 and 91 in the 2009 NHL Entry Draft.",
+        "Some players drafted between picks 62 and 91 came directly from United States high schools.",
+        "Swedish players drafted between picks 62 and 91 commonly came from the J20 Superelit league."
+    ],
+    "2-18060467-5.html.csv": [
+        "Darren Clarke from Northern Ireland won the 1997 Open Championship with a total score of 133 (-9).",
+        "The United States had the most players in the top ranks of the 1997 Open Championship, with six participants.",
+        "Darren Clarke had the best score relative to par (-9) among all players in the 1997 Open Championship.",
+        "Fred Couples and David Tapping tied for 4th place with a score of 137 (-5) in the 1997 Open Championship.",
+        "Four players tied for 9th place with identical scores of 141 (-1) in the 1997 Open Championship: Mark Calcavecchia, Jay Haas, Davis Love III, and Tom Watson."
+    ],
+    "2-15122771-2.html.csv": [
+        "The Washington Redskins recorded two tied games in the 1962 season.",
+        "The game against the New York Giants on October 28, 1962, had the highest attendance of 62,844.",
+        "The Redskins defeated the Cleveland Browns twice during the 1962 season.",
+        "The Redskins lost their final five games of the 1962 season.",
+        "The Redskins' 1962 season spanned from mid-September to mid-December."
+    ],
+    "2-12449312-2.html.csv": [
+        "Chile won the most gold medals (9) and the highest total number of medals (41) at the 1951 Pan American Games in Buenos Aires.",
+        "Chile won its lowest total medal count of 2 medals at the 1975 Pan American Games in Mexico City.",
+        "Chile won the most silver medals (20) at the 1951 Pan American Games held in Buenos Aires.",
+        "Mexico City hosted the Pan American Games twice, with Chile winning 24 medals in 1955 and only 2 medals in 1975.",
+        "Across all Pan American Games editions listed, Chile won a total of 258 medals: 40 gold, 86 silver, and 132 bronze."
+    ],
+    "2-10650028-1.html.csv": [
+        "Eric Turner was the earliest overall draft pick for the Cleveland Browns in 1991, selected 2nd overall.",
+        "Defensive tackle was the position with the most players drafted by the Cleveland Browns in 1991.",
+        "The Cleveland Browns selected players in ten different rounds during the 1991 draft.",
+        "The Cleveland Browns drafted players from a variety of colleges, including UCLA, Auburn, Northern Iowa, San Diego State, and others, demonstrating diverse college representation.",
+        "The 1991 Cleveland Browns draft included selections for offensive positions as well as special teams, such as a punter."
+    ],
+    "2-150343-3.html.csv": [
+        "Venezuela is the top-ranked country/territory in the Miss World rankings.",
+        "Venezuela and the United Kingdom have the highest number of Miss World wins.",
+        "The United States has the highest total number of placements in Miss World.",
+        "Israel has the most placements as 2nd runner-up in Miss World.",
+        "Venezuela and Austria are the only countries/territories with a placement as 6th runner-up in Miss World."
+    ],
+    "2-17747000-1.html.csv": [
+        "The highest scoring match was between Montpellier HSC and FC Sochaux-Montb\u00e9liard with a total of 5 goals scored.",
+        "FC Metz (a Division 1 team) won their match against FC Mulhouse (a Division 2 team) with a clean sheet of 3 - 0.",
+        "Stade de Reims (Division 2) won 2 - 0 in the 1st round against Le Havre AC (Division 1).",
+        "Toulouse FC and OGC Nice drew both the 1st round and 2nd round matches with identical scores of 1 - 1.",
+        "So Chtellerault and US Cr\u00e9teil played two goalless matches in both the 1st and 2nd rounds, each ending 0 - 0."
+    ],
+    "1-23117208-5.html.csv": [
+        "The episode \"about face\" (no. 52) had the highest viewership of 4.25 million.",
+        "Emile Levisetti directed the first two episodes of this series.",
+        "All episodes aired between early June and early September of 2012.",
+        "The list omits the episode no. 11 from the season's airing sequence.",
+        "Jon Sherman wrote or co-wrote at least three episodes in this season."
+    ],
+    "2-11677760-22.html.csv": [
+        "Greg Monroe, Michael Dunigan, and Tyler Zeller are the tallest players on the team, each standing 6 - 10.",
+        "Scotty Hopson and Michael Dunigan were both undrafted in the 2011 NBA draft.",
+        "Tyler Zeller played college basketball at North Carolina.",
+        "Willie Warren is from Fort Worth, Texas.",
+        "Greg Monroe was the highest NBA draft pick from this team, selected 7th overall in 2009."
+    ],
+    "2-1035855-1.html.csv": [
+        "Bethlehem Steel F.C. finished first in the regular season at least nine times between 1912 and 1929.",
+        "Bethlehem Steel F.C. was league champion multiple times without participating in playoffs.",
+        "Bethlehem Steel F.C. won the Challenge Cup at least five times between 1914 and 1926.",
+        "Bethlehem Steel F.C. competed in at least seven different leagues between 1911 and 1930.",
+        "Bethlehem Steel F.C. withdrew from the American Soccer League after 6 games in the 1928/29 season and subsequently competed in the Eastern Soccer League."
+    ],
+    "2-147235-16.html.csv": [
+        "The unit \"gan1\" (\u65a4) is the base measurement unit for weight in this table, with a relative value of 1.",
+        "The unit \"daam3\" (\u62c5 / \u64d4) represents the largest Chinese unit of measurement in the table, equivalent to 100 times the base unit.",
+        "The metric values of the units are proportional to their relative values, with \"fan1\" (condorim) being 10 times the \"lei4\" (liz) metric value.",
+        "The imperial values for \"gan1\" (\u65a4) and \"loeng2\" (\u5169) are approximately 1.3333 pounds and 1.3333 ounces, respectively, reflecting their relative sizes.",
+        "Each jyutping romanization in the table corresponds to a specific Chinese character representing the unit of measurement."
+    ],
+    "2-1612222-2.html.csv": [
+        "Alexandra Stevenson recorded the highest number of aces (25) in a single match listed in the table.",
+        "Serena Williams appears in the table more than once, indicating multiple matches with high aces.",
+        "The earliest year listed in the table is 1994, with Brenda Schultz recording 22 aces.",
+        "Wimbledon is an event where Serena Williams played multiple times with high aces.",
+        "The match between Alexandra Stevenson and Alexandra Mueller in 2013 at Quebec City was decided in three sets with a close final score."
+    ],
+    "2-18781865-4.html.csv": [
+        "Canada won all the gold medals in wheelchair basketball at the 2000 Summer Paralympics.",
+        "Australia and the Netherlands both earned one silver medal, tying for second place in silver medals.",
+        "The United States and Japan each earned one bronze medal, resulting in a tie for fourth place.",
+        "Canada had the highest total medal count with 2 medals, while all other nations earned only one medal each.",
+        "The rankings show ties for second place between Australia and the Netherlands, and ties for fourth place between the United States and Japan."
+    ],
+    "2-16653153-30.html.csv": [
+        "South Dragons had the fewest losses among all teams with only 8 losses.",
+        "Sydney Spirit was on the longest losing streak, having lost 8 consecutive games.",
+        "South Dragons had the highest winning percentage of 73.33% in the season.",
+        "South Dragons had the best home record, winning 13 games and losing only 2.",
+        "Both South Dragons and Perth Wildcats had a strong recent form, each winning 4 out of their last 5 games."
+    ],
+    "2-10809351-8.html.csv": [
+        "Collingwood scored the highest points of any team that played on 4 June 1949.",
+        "Kardinia Park was the venue for the Geelong vs. Richmond match.",
+        "The match with the largest crowd was held at Princes Park.",
+        "Footscray scored 7.17 (59) as the home team.",
+        "All six matches occurred on 4 June 1949."
+    ],
+    "2-171666-1.html.csv": [
+        "Xinjiang is the largest administrative division by area in China.",
+        "Macau is the smallest administrative division by area in China.",
+        "The total area of all Chinese administrative divisions combined is represented by the People's Republic of China with a national share of 100%.",
+        "The area of Tibet is comparable to the area of South Africa.",
+        "Shanghai has an area of 2,448 sq mi, making it one of the smallest administrative divisions by area in China."
+    ],
+    "2-18715280-4.html.csv": [
+        "Hungary won the highest number of gold medals at the 1986 ICF Canoe Sprint World Championships.",
+        "Hungary achieved the highest total number of medals (11) at the championships.",
+        "The Soviet Union earned the most silver medals (6) among all nations.",
+        "Poland, Bulgaria, and West Germany each won a total of 3 medals but with different combinations of gold, silver, and bronze.",
+        "The championships awarded an equal number of gold, silver, and bronze medals\u201418 each\u2014for a total of 54 medals."
+    ],
+    "2-10809823-14.html.csv": "## Consistent Claims from the 1980 VFL Season Table**Reasoning 1:**  Looking at the \"home team score\" column, the highest score is 21.17 (143) by Hawthorn. No other team scored higher in the table.  **Claim 1:**  Hawthorn scored the highest number of points among all home teams with 21.17 (143).**Reasoning 2:**  Looking at the \"away team score\" column, the highest score is 7.22 (64) by Collingwood. No other away team scored higher.  **Claim 2:**  Collingwood had the highest away team score with 7.22 (64).**Reasoning 3:**  Looking at the \"crowd\" column, the highest attendance was 64,054 at the Richmond vs. Collingwood match at the MCG. No other match had a higher crowd.  **Claim 3:**  The Richmond vs. Collingwood match at the MCG had the largest crowd of 64,054.**Reasoning 4:**  Looking at the \"venue\" column, each match was held at a different venue: Kardinia Park, Western Oval, Princes Park, MCG, Lake Oval, and VFL Park.  **Claim 4:**  Six different venues were used for the matches on 28 June 1980.**Reasoning 5:**  Looking at the \"date\" column, all matches in the table were played on 28 June 1980.  **Claim 5:**  All six matches listed took place on 28 June 1980.---Each claim is directly supported by the data in the table, and each is distinct, focusing on different aspects: highest scores, crowd size, venues, and date.",
+    "2-11312764-4.html.csv": "## 1979 World Figure Skating Championships \u2013 Consistent Claims**Reasoning 1:**  Looking at the \"rank\" column, Linda Fratianne from the United States is listed in first place. Her \"points\" value (186.92) is the highest in the table, confirming her top position.  **Claim 1:** Linda Fratianne from the United States won the 1979 World Figure Skating Championships with a total of 186.92 points.**Reasoning 2:**  Examining the \"sp + fs\" column, Linda Fratianne also has the lowest value (1), which typically indicates the best combined short program and free skate placement.  **Claim 2:** Linda Fratianne achieved the best combined placement in both the short program and free skate segments.**Reasoning 3:**  Checking the \"nation\" column, there are three skaters from the United States (Linda Fratianne, Lisa-Marie Allen, Carrie Rugh), more than from any other country listed in the top 11.  **Claim 3:** The United States had the most skaters (three) in the top 11 of the competition.**Reasoning 4:**  Comparing the \"points\" column, the difference between the first (Linda Fratianne, 186.92) and second (Anett P\u00f6tzsch, 184.36) place finishers is 2.56 points, which is larger than the difference between second and third (3.84 points) or third and fourth (0.56 points).  **Claim 4:** The margin between the gold and silver medalists (2.56 points) was greater than the margin between the silver and bronze medalists (3.84 points).**Reasoning 5:**  Reviewing the \"places\" column, the lowest (best) value is 11, belonging to Linda Fratianne, while the next best is 18 (Anett P\u00f6tzsch). This column likely represents the sum of ordinal placements from judges, and Fratianne\u2019s value is significantly better than her closest competitor.  **Claim 5:** Linda Fratianne received the lowest (best) total of ordinal placements from the judges among all competitors.These claims are each distinct, directly supported by the table, and demonstrate different aspects of the data (ranking, scoring, national representation, margins, and judging details).",
+    "2-1762882-13.html.csv": [
+        "The matches in the 2003-04 Scottish football season table took place between 20 August and 30 May.",
+        "The table includes matches played both at home venues (e.g., Hampden Park, Glasgow) and away venues (e.g., Ullevaal Stadium, Oslo).",
+        "The largest winning margin recorded in the matches was a 6-0 away victory at Amsterdam Arena, Amsterdam.",
+        "The 2003-04 Scottish football matches in the table were played in at least three competitions: friendly, ECQG5, and ECQPO.",
+        "The home team won by a score of 4-1 at Easter Road, Edinburgh, on 30 May."
+    ],
+    "2-12546630-1.html.csv": [
+        "Alfredo Binda was the cyclist who won the most stages in the 1933 Giro d'Italia.",
+        "Alfredo Binda was the race leader for most of the 1933 Giro d'Italia stages.",
+        "The 1933 Giro d'Italia had six rest days distributed throughout the race.",
+        "Gerard Loncke from Belgium won two stages and led the race at least once during the 1933 Giro d'Italia.",
+        "The 1933 Giro d'Italia started in Milan on 6 May and finished in Milan on 28 May, covering multiple Italian cities over the course of the race."
+    ],
+    "2-18424482-2.html.csv": [
+        "The earliest original release year of songs covered in the album is 1951.",
+        "Darrell Edwards is credited as a writer on three songs in the album.",
+        "The longest track on the album is \"sleepless nights (featuring vince gill)\" with a length of 4:21.",
+        "George Jones is the original artist for four songs on the album.",
+        "The album \"sleepless nights\" contains 16 tracks."
+    ],
+    "2-1877416-2.html.csv": [
+        "The team ranked 1st won the most gold medals, totaling 2.",
+        "The team ranked 1st earned the highest total number of medals, with 3 in total.",
+        "Teams ranked 3rd and 4th both won 1 silver medal each.",
+        "Teams ranked 1st, 3rd, and 6th each secured exactly 1 bronze medal.",
+        "The team ranked 2nd won the fewest total medals, with only 1 medal."
+    ],
+    "2-14305653-58.html.csv": [
+        "Yugoslavia achieved their largest winning margin of 5:0 against Luxembourg on September 10.",
+        "Yugoslavia participated in friendly matches, Balkan Cup games, and 1982 World Cup qualifiers during this period.",
+        "Yugoslavia lost only one match, against Italy on November 15, with a score of 0:2.",
+        "Yugoslavia played home matches in several cities such as Sarajevo, Belgrade, and Ljubljana, and away matches in cities including Bucharest, Luxembourg, and Torino.",
+        "Yugoslavia played Romania twice, winning 2:0 at home and losing 1:4 away in Bucharest."
+    ],
+    "2-10753786-4.html.csv": [
+        "Tiger Woods held the world number one male golfer ranking for the most weeks, totaling 656 weeks.",
+        "England is the only country represented by three different players in the list of world number one male golfers.",
+        "Luke Donald and Lee Westwood are the only players in the list who did not win any major championships.",
+        "Luke Donald achieved the world number one ranking most recently, with an order of 15.",
+        "The United States is the country with the highest number of players (four) who have held the world number one male golfer ranking."
+    ],
+    "2-16474033-6.html.csv": [
+        "Most of Flavio Cipolla\u2019s matches in the table were played on clay courts.",
+        "Marcel Granollers was a frequent doubles partner of Flavio Cipolla in the matches listed.",
+        "Some of Flavio Cipolla\u2019s matches extended to three sets, showing closely contested matches.",
+        "Flavio Cipolla competed in multiple doubles matches at various Italian tournaments over different years.",
+        "Marcel Granollers played both as a partner and as an opponent to Flavio Cipolla in different doubles matches."
+    ],
+    "2-15544826-1.html.csv": [
+        "Greg Pursley won the most races in a single year in 2011, with 6 wins.",
+        "Greg Pursley achieved his highest season rank of 1st place in 2011.",
+        "In 2012, Greg Pursley\u2019s average finishing position was closest to his average starting position, with a small difference between 3.2 and 3.8.",
+        "Greg Pursley earned the highest number of pole positions in 2011, totaling 6 poles.",
+        "Greg Pursley participated in only one race during both 1999 and 2007."
+    ],
+    "2-1421422-10.html.csv": [
+        "Marcos Baghdatis reached his best Australian Open performance in 2013 by advancing to the 3rd round.",
+        "Marcos Baghdatis did not participate in the French Open during any of the listed years.",
+        "Marcos Baghdatis played at Wimbledon only in 2007, where he reached the 1st round.",
+        "Marcos Baghdatis did not participate in the US Open in any of the years 2006, 2007, 2008-12, and 2013.",
+        "Among the grand slam tournaments listed, Marcos Baghdatis's only consistent participation with recorded match results was at the Australian Open."
+    ],
+    "2-14895621-2.html.csv": [
+        "Hwang Sun-Ai achieved an outcome of 3 in the world championships event in 1985 with partner Kang Haeng-suk.",
+        "Kang Haeng-suk was Hwang Sun-Ai's partner in all listed events.",
+        "Hwang Sun-Ai competed in the years 1982 and 1985 in the listed events.",
+        "Hwang Sun-Ai competed at venues in Calgary, Canada; New Delhi, India; and the India Open.",
+        "All of Hwang Sun-Ai's recorded outcomes in the table were in the women's doubles (wd) event category."
+    ],
+    "2-10826385-15.html.csv": [
+        "Carlton and Hawthorn both scored the highest points of 128 in their matches as home teams on 15 July 1972.",
+        "Six different venues hosted the matches on 15 July 1972.",
+        "The match between Collingwood and Melbourne at VFL Park attracted the largest crowd of 30,883 on 15 July 1972.",
+        "Richmond, playing away at Windy Hill, defeated Essendon by scoring 111 points to 90.",
+        "All six matches in the 1972 VFL season table were played on 15 July 1972."
+    ],
+    "2-16620096-1.html.csv": [
+        "Eug\u00e8ne Schaus and \u00c9mile Krieps were members of the DP party.",
+        "Eug\u00e8ne Schaus was the earliest minister for the police force of Luxembourg listed in this table.",
+        "Jacques Santer was prime minister during the ministerial terms of both Marc Fischbach and Jacques Poos.",
+        "Alex Bodry served as minister for the police force under two prime ministers during consecutive terms from 1994 to 1999.",
+        "The ministers for the police force of Luxembourg in the table represented three different political parties: DP, CSV, and LSAP."
+    ],
+    "2-10866507-1.html.csv": [
+        "Perth Glory won four out of five matches listed in the 2007-08 season table.",
+        "The highest crowd attendance was 9606 at Hindmarsh Stadium for the grand final on 12 August 2007.",
+        "Hindmarsh Stadium hosted the most matches according to the table, with two games played there.",
+        "All five matches in the 2007-08 Perth Glory season table occurred within a one-month period from mid-July to mid-August 2007.",
+        "Perth Glory played four matches as the away team and only one match as the home team in the 2007-08 season table."
+    ],
+    "2-17340355-10.html.csv": [
+        "All eight games took place in April 2009.",
+        "The game at the American Airlines Center on April 5 had the highest attendance of 20,301.",
+        "The Phoenix Suns improved their record from 41-34 to 46-36 during these eight games.",
+        "The Phoenix Suns played four home games at the US Airways Center during these games.",
+        "The Suns played against Memphis twice in this eight-game stretch."
+    ],
+    "2-16225902-4.html.csv": [
+        "Tiger Woods finished in first place at the 2005 Open Championship.",
+        "Tiger Woods had the lowest score of any player at the 2005 Open Championship.",
+        "Tiger Woods had the best score relative to par at the 2005 Open Championship.",
+        "Twelve players tied for third place at the 2005 Open Championship.",
+        "Four players at the 2005 Open Championship represented the United States."
+    ],
+    "2-10790099-5.html.csv": [
+        "Geelong scored the highest points of any team that played on 28 May 1932.",
+        "North Melbourne was the home team with the highest score.",
+        "Arden Street Oval was one of the venues used for matches on 28 May 1932.",
+        "St Kilda recorded an away score of 8.10 (58), while Hawthorn recorded an away score of 6.9 (45).",
+        "All six matches took place on 28 May 1932."
+    ],
+    "2-1226543-6.html.csv": [
+        "Raul Boesel\u2019s racing data is recorded for selected years between 1985 and 2002, with some years missing from the table.",
+        "Raul Boesel used the Ford Cosworth DFX engine in at least three different years: 1985, 1986, and 1988.",
+        "The team \"Simon\" is the team Raul Boesel raced for most often during the recorded years.",
+        "Raul Boesel\u2019s best recorded finishing position in the table was 3rd place in 1989.",
+        "Raul Boesel raced with different chassis models over the years, starting with March 85C in 1985 and ending with Dallara in 2002."
+    ],
+    "2-18078622-1.html.csv": [
+        "The Beach Boys are the artist with the most albums listed in the Caribou Records discography table.",
+        "The earliest album release year in the table is 1976, corresponding to La Express.",
+        "Several albums were released in both LP and CD formats at different times, such as \"la (light album)\" by The Beach Boys.",
+        "James Vincent is the only artist listed from Canada, while all other artists are from the US.",
+        "Dennis Wilson\u2019s \"pacific ocean blue\" album was reissued multiple times in various formats from 1977 through 2008."
+    ],
+    "2-17486851-1.html.csv": "## Consistent Claims from the 2008\u201309 APOEL F.C. Season Transfer Table**Claim 1:**  **All transfers involving a transfer fee (\u201ctransfer fee\u201d column is not \u201c-\u201d) occurred for Cypriot players.**  **Reasoning:**  Looking at the \u201ctransfer fee\u201d column, only Christou (CYP) has a value (120k), while all other players with a transfer fee listed (such as Onwuachi) are loans, not transfers. For actual transfers, only Christou\u2019s move involved a disclosed fee, and he is Cypriot.  **Claim:**  Christou was the only player transferred for a fee (120k) during the 2008\u201309 APOEL F.C. season, and he is Cypriot.**Claim 2:**  **Loan returns involved only Cypriot players during the summer window.**  **Reasoning:**  Inspecting the \u201ctype\u201d and \u201cnat\u201d columns, Elia (CYP) and Kyriakou (CYP) are the only players with \u201cloan return\u201d as their transfer type, and both are Cypriot. This occurred in the summer transfer window.  **Claim:**  Elia and Kyriakou, both Cypriot, returned from loan to APOEL in the summer of 2008.**Claim 3:**  **All transfers with contracts ending in 2010 involved players acquired on a free transfer.**  **Reasoning:**  Checking the \u201cends\u201d and \u201ctransfer fee\u201d columns, players with contracts ending in 2010 (Poursaitides, \u017bew\u0142akow, Chiotis, Paulista, Kosowski) all have \u201cfree\u201d listed as their transfer fee.  **Claim:**  Poursaitides, \u017bew\u0142akow, Chiotis, Paulista, and Kosowski were all signed on free transfers with contracts ending in 2010.**Claim 4:**  **The only player with a contract ending in 2012 is Cypriot.**  **Reasoning:**  In the \u201cends\u201d column, only Christou\u2019s contract ends in 2012, and he is Cypriot.  **Claim:**  Christou, a Cypriot, is the only player in the table with a contract ending in 2012.**Claim 5:**  **No player transferred from a club outside Cyprus in the winter window; the only winter transfer was a loan from within Cyprus.**  **Reasoning:**  Examining the \u201ctransfer window\u201d and \u201cmoving from\u201d columns, Paulo Costa is the only winter transfer, and he came from Anorthosis Famagusta, a Cypriot club. All other transfers in the table are from clubs outside Cyprus (Greece, Poland, Brazil, Nigeria, Portugal) or are loan returns, but these all occurred in the summer.  **Claim:**  The only winter transfer was Paulo Costa on loan from Anorthosis Famagusta, a Cypriot club; all other incoming players in the table arrived from abroad or were loan returns, but only in the summer window.---These claims are each independently verifiable from the table, are mutually distinct, and cover different aspects of the data (nationality, transfer type, fee, contract duration, and transfer timing).",
+    "2-11364514-2.html.csv": [
+        "all the nominations for lord of the rings (musical) were in the year 2008.",
+        "all the nominations were for the laurence olivier award.",
+        "lord of the rings (musical) received only nominations and no wins in the listed categories.",
+        "rob howell was nominated twice for the laurence olivier award in 2008 for best set design and best costume design.",
+        "lord of the rings (musical) was nominated in diverse categories including best new musical, set design, costume design, lighting design, and sound design in 2008."
+    ],
+    "2-1570558-1.html.csv": [
+        "In 2004, Sherdrick Bonner had the highest number of passing attempts, totaling 536.",
+        "Sherdrick Bonner threw the most touchdowns in 2003, with a total of 89.",
+        "Sherdrick Bonner achieved his highest completion percentage of 67.1% in 2003.",
+        "Sherdrick Bonner recorded his highest quarterback rating of 126.5 in 2003.",
+        "Over his career, Sherdrick Bonner completed 3314 passes out of 5366 attempts for 41,742 yards, 845 touchdowns, 122 interceptions, and an overall quarterback rating of 115.9."
+    ],
+    "2-18096431-7.html.csv": [
+        "Mark Brooks and Kenny Perry both finished the 1996 PGA Championship with a total score of 277, tied at -11 under par.",
+        "The top two finishers, Mark Brooks and Kenny Perry, were both from the United States.",
+        "Steve Elkington and Tommy Tolles tied for third place with a total score of 278, finishing at -10 under par.",
+        "Mark Brooks earned the highest prize money of $430,000 for winning the 1996 PGA Championship.",
+        "Players from six different countries participated among the top finishers in the 1996 PGA Championship leaderboard."
+    ],
+    "2-18169845-3.html.csv": [
+        "In 2010, Andrew Lippa and Kevin Chamberlin were both nominated for Tony Awards for their work in The Addams Family (Musical).",
+        "In 2010, The Addams Family (Musical) won the Drama Desk Award for Outstanding Set Design.",
+        "In 2010, Nathan Lane won the Drama League Award for Distinguished Achievement in Musical Theatre for his work in The Addams Family (Musical).",
+        "In 2010, Bebe Neuwirth was nominated for the Outer Critics Circle Award for Outstanding Actress in a Musical for her work in The Addams Family (Musical).",
+        "In 2010, Andrew Lippa was nominated for both Outstanding Music and Outstanding Lyrics at the Drama Desk Awards for The Addams Family (Musical)."
+    ],
+    "2-13312898-28.html.csv": [
+        "The Indianapolis Colts made draft picks in rounds ranging from 1 to 12.",
+        "The Colts drafted players in at least nine different positions.",
+        "USC and Texas were colleges with multiple players drafted by the Colts.",
+        "The Colts had the 5th pick in multiple rounds, specifically rounds 1, 4, 7, and 10.",
+        "The Colts' earliest overall pick was 5th and their latest was 324th in this draft history."
+    ],
+    "2-11513647-4.html.csv": [
+        "All games in this table took place in June 2002.",
+        "The Rockies played the Dodgers more times than any other opponent in this table.",
+        "The Rockies scored the most runs in a single game on June 19, 2002, against the Yankees.",
+        "The highest attendance for a Rockies game in this table was on June 20, 2002, against the Yankees.",
+        "The Rockies lost more games than they won from June 1 to June 30, 2002."
+    ],
+    "2-18178551-1.html.csv": [
+        "All the England national rugby union team matches listed took place in the year 2000.",
+        "Twickenham, London, was the venue for the highest number of matches listed.",
+        "England scored their highest points of 22 against South Africa during the second test on 24 June 2000.",
+        "The listed matches include different statuses such as Six Nations matches, test matches, and specific first and second tests.",
+        "England failed to score any points against Argentina in the test match on 25 November 2000."
+    ],
+    "1-23466021-4.html.csv": [
+        "The Toronto Argonauts finished the 1991 season with a 12-5 win-loss record.",
+        "The game with the highest attendance was the week 4 match against the Lions at BC Place Stadium, attended by 53,527 people.",
+        "The Toronto Argonauts played at least eight home games at the Skydome during the 1991 season.",
+        "The Toronto Argonauts scored their highest points in a single game during week 6, defeating the Roughriders 62-10.",
+        "The Argonauts lost two very close games by a one-point margin: 28-27 in week 14 and 52-41 (in overtime) in week 4. (Note: Week 4 was a loss by 52-41 in OT, which is an 11-point difference, so only week 14 is a one-point loss. Adjusting claim.)",
+        "The Argonauts had one overtime loss in week 4 and one one-point loss (28-27) in week 14."
+    ],
+    "2-11173692-2.html.csv": [
+        "kalomira scored the highest points (156) in the Eurovision Song Contest 2008.",
+        "kalomira won first place in the Eurovision Song Contest 2008.",
+        "English was the most frequently used language in the songs performed at Eurovision 2008.",
+        "The top three contestants in Eurovision 2008 all performed songs that included English.",
+        "There were 19 entries competing in the Eurovision Song Contest 2008."
+    ],
+    "1-25551880-2.html.csv": [
+        "Mark Cavendish won the most stages in the 2010 Vuelta a Espa\u00f1a.",
+        "Igor Ant\u00f3n held the general classification lead for five consecutive stages.",
+        "Mark Cavendish led the points classification for the majority of the 2010 Vuelta a Espa\u00f1a.",
+        "David Moncouti\u00e9 led the mountains classification for the final 12 stages of the 2010 Vuelta a Espa\u00f1a.",
+        "Team Katusha led the team classification for the final seven stages of the 2010 Vuelta a Espa\u00f1a."
+    ],
+    "2-14860855-3.html.csv": [
+        "Reinhold Roth won races only in 1987 and 1989, with no wins recorded in other years.",
+        "Reinhold Roth scored his highest points total of 190 in 1989 riding in the 250cc class for the hb - honda team.",
+        "Reinhold Roth primarily competed in the 250cc class throughout his career, with occasional participation in 350cc and 500cc classes.",
+        "Reinhold Roth rode for the hb - honda team continuously from 1986 through 1990.",
+        "Reinhold Roth's points in the 250cc class peaked in 1989 before declining in 1990."
+    ]
+}

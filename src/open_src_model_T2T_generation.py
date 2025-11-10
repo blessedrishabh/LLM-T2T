@@ -2,6 +2,7 @@ import sys
 import argparse
 import json
 import os
+import torch
 from tqdm import tqdm
 from transformers import (
     AutoTokenizer,
@@ -37,7 +38,8 @@ def prompt_encoding(tokenizer, prompt_text, args):
     else:
         encoded_prompt = tokenizer(prompt_text, return_tensors="pt").input_ids
 
-    encoded_prompt = encoded_prompt.to("cuda")
+    encoded_prompt = encoded_prompt.to('cpu')
+
     return encoded_prompt
 
 
@@ -108,11 +110,11 @@ def main():
     max_memory_mapping = {0: "46GB", 1: "46GB"}
 
     model = AutoModelForCausalLM.from_pretrained(
-        args.model_name_or_path, 
-        device_map="auto",
-        load_in_8bit=True,
-        max_memory=max_memory_mapping if ("65" in args.model_name_or_path or "70" in args.model_name_or_path) else None,
+    args.model_name_or_path, 
+    dtype=torch.float32,   # Use float32 for CPU
     )
+    model = model.to('cpu')          # Explicitly move to CPU
+
 
     max_seq_length = getattr(model.config, "max_position_embeddings", 0)
     args.length = adjust_length_to_model(args.length, max_sequence_length=max_seq_length)
@@ -240,7 +242,8 @@ def main():
                         else:
                             encoded_prompt = tokenizer(prompt_real_text, return_tensors="pt").input_ids
 
-                        encoded_prompt = encoded_prompt.to("cuda")
+                        encoded_prompt = encoded_prompt.to('cpu')
+
 
                         output_sequence = model.generate(
                             input_ids=encoded_prompt,

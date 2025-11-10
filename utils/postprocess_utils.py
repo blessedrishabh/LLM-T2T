@@ -8,10 +8,14 @@ def direct_postprocess(engine, table_id_list, response_list, keywords):
     write_data = {}
     for (id, res) in zip(table_id_list, response_list):
         claim_list = []
-        if engine == CHAT_GPT or engine == GPT4:
-            claims = res.choices[0].message['content']
-        else:
-            claims = res.choices[0]['text']
+        # if engine == CHAT_GPT or engine == GPT4:
+        #     claims = res.choices[0].message['content']
+        # else:
+        #     claims = res.choices[0]['text']
+        # Old code (around line 20-30 in utils.py)
+        claims = res['choices'][0]['message']['content']  # Use 'res' not 'response'
+
+
 
         include_keyword = False    
         for claim in claims.split('\n'):
@@ -33,12 +37,14 @@ def direct_postprocess(engine, table_id_list, response_list, keywords):
 def improve_postprocess(engine, responses, keywords, ori_sent):
     pred_vote = {'Entailed': [], 'Refuted': []}
     for res in responses:
-        if engine == CHAT_GPT or engine == GPT4:
-            feedback = res.choices[0].message['content']
-        elif engine == DAVINCI003 or engine == DAVINCI002:
-            feedback = res.choices[0]['text']
-        else:
-            feedback = res
+        # if engine == CHAT_GPT or engine == GPT4:
+        #     feedback = res.choices[0].message['content']
+        # elif engine == DAVINCI003 or engine == DAVINCI002:
+        #     feedback = res.choices[0]['text']
+        # else:
+        #     feedback = res
+        feedback = res['choices'][0]['message']['content']
+
 
         if 'no error' in feedback or 'No error' in feedback or 'No Error' in feedback:
             pred_vote['Entailed'].append(ori_sent)
@@ -62,16 +68,14 @@ def improve_postprocess(engine, responses, keywords, ori_sent):
 
 def get_exact_output_path(output_path, engine, dataset, mode, direct_mode=None, finetuned_model=None):
     open_src_model = ['llama-7b', 'llama-13b', 'llama-30b', 'llama-65b', 'llama2-70b', 'vicuna', 'tulu', 'alpaca', 'pythia']
-    if engine == CHAT_GPT:
-        engine_name = 'GPT3.5'
-    elif engine == GPT4:
-        engine_name = 'GPT4'
-    elif engine == DAVINCI003:
-        engine_name = 'Davinci003'
-    elif engine == DAVINCI002:
-        engine_name = 'Davinci002'
-    elif engine in open_src_model:
+    if engine == DAVINCI002 or engine == DAVINCI003:
         engine_name = engine
+    elif engine == CHAT_GPT:
+        engine_name = 'gpt-3.5-turbo'
+    elif engine == GPT4:
+        engine_name = 'gpt-4'
+    elif 'sonar' in engine.lower():  # ADD THIS LINE
+        engine_name = engine           # ADD THIS LINE
     else:
         raise ValueError("Invalid engine name")
     
@@ -82,6 +86,8 @@ def get_exact_output_path(output_path, engine, dataset, mode, direct_mode=None, 
     else:
         raise ValueError("Invalid mode name")
     return output_path
+
+
 
 
 def table_length_is_valid(input_table_str):
